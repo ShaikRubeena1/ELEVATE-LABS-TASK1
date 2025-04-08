@@ -1,3 +1,4 @@
+# ELEVATE LABS TASK1- Data Cleaning and Preprocessing
 Mall Customer Segmentation – Data Preprocessing & EDA
 Overview
 This project begins the journey of customer segmentation by preparing and exploring the Mall Customers dataset. The dataset includes demographic and behavioral features that will later be used for clustering. The current stage focuses on data cleaning, feature understanding, and exploratory analysis.
